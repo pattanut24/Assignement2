@@ -1,4 +1,6 @@
 ﻿# Assignement2
+yarn install 
+
 # Run in dev mode
 yarn run dev
 
